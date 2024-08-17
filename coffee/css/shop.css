@@ -1,0 +1,52 @@
+.mycard{
+margin-bottom: 10px;
+
+}
+.mycard .img {
+    border: 0;
+    margin: 0 ;
+    width: 100%;
+}
+.mycard .img img{
+    width: 100%;
+}
+.title-price{
+    display:flex;
+    justify-content:space-between;
+}
+.card-title {
+    font-size: 1.5rem;
+}
+
+.looking-text{
+    width: 75%;
+    text-align: left;
+    margin: 0;
+}
+.fa-heart{
+    position: absolute;
+    top:15px;
+    right: 25px;
+    cursor: pointer;
+}
+.fa-cart-plus{
+    float: right;
+}
+.fa-2xl{
+    cursor: pointer;
+}
+.login_bt li a {
+    color: white;
+}
+.seeall {
+    text-align: center;
+    width: 100%;
+    background-color: #d07d6b;
+    cursor: pointer;
+    color: white;
+    padding: 10px;
+    margin:10px 0;
+}
+.seeall p{
+    font-size:25px;
+}
